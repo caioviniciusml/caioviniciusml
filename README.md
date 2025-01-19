@@ -1,6 +1,6 @@
 # Hello, I'm Caio Vinicius 💻
 
-I'm a Software Engineer currently undergraduating in Computer Engineering, my professional experience is focused on Front-End development, but I aspire to become a Fullstack developer in the near future. I'm always looking for new challenges optimize old functions, enhance application performance, try a new framework, learn something new, understand how applications communicate and operate, delve into the design of complex systems and etc. I'm truly passionate about computer science at all.
+I'm a Software Engineer currently undergraduating in Computer Engineering, my professional experience is focused on Front-End development, but I aspire to become a Fullstack developer in the near future. I'm truly passionate for optimize functions, enhance application performance, understand how applications communicate and operate, delve into the design of complex systems and etc.
 
 ### Languages and Tools
 
