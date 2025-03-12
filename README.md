@@ -3,7 +3,7 @@
 I'm a Software Engineer currently majoring in Computer Engineering, my professional experience is focused on Front-End Web Development using technologies such as JavaScript, TypeScript, React.js, and Next.js. Additionally, I am currently enhancing my Back-End Development skills with Node.js, Express.js, and Nest.js to become a Fullstack developer in the near future. I'm truly passionate for Software Engineering at all, I'm always looking for optimize functions, enhance application performances, understand how applications communicate and operate, delve into the design of complex systems and etc.
 
 ### Languages and Tools
-
+<div
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="left" alt="Sass" title="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -20,9 +20,8 @@ I'm a Software Engineer currently majoring in Computer Engineering, my professio
 <img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />         
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Arch Linux" title="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-<br />
 <br />
 
 ### Learning
