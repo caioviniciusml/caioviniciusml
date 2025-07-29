@@ -1,6 +1,6 @@
 # Hello, I'm Caio Vinicius 💻
 
-I'm a Software Engineer currently undergraduating in Computer Engineering, my professional experience until now was focused on Front-End Web Development using technologies such as JavaScript, TypeScript, React.js, and Next.js. However, I also have Back-End Skills with Node.js, Express.js, SQL & NoSQL Databases still looking for experiences as a Fullstack Software Engineer. I'm truly passionate for Software Engineering at all, I'm always looking for optimize functions, enhance application performances, understand how applications communicate and operate, delve into the design of complex systems and etc.
+I'm a FullStack Software Engineer currently undergraduating in Computer Engineering, my professional experience mainly includes technologies such as JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Docker, SQL & NoSQL Databases. I'm truly passionate for Computer Science & Software Engineering at all.
 
 ### Languages and Tools
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -24,24 +24,20 @@ I'm a Software Engineer currently undergraduating in Computer Engineering, my pr
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Arch Linux" title="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />  
-<br />
-<br />
-<br />
+<br/>
+<br/>
 
 ### Learning
 <img align="left" alt="Nest.js" title="Nest.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />    
 <img align="left" alt="Fastify" title="Fastify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />          
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="AWS" title="Amazon Web Services" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />      
-<br />
-<br />
+<br/>
 
 ### Stats
-
 ![caioviniciusml's Stats](https://github-readme-stats.vercel.app/api?username=caioviniciusml&theme=nightowl&show_icons=true&include_all_commits=true&hide_border=true&count_private=true)
 ![caioviniciusml's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caioviniciusml&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 <br />
 
 <a href="mailto:devcaioviniciusml@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/caioviniciusml/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "https://github.com/caioviniciusml"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
