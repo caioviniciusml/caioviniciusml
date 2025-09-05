@@ -1,6 +1,6 @@
 # Hello, I'm Caio Vinicius 💻
 
-I’m a Full Stack Software Engineer with a Bachelor of Science in Computer Engineering. My professional experience includes technologies like JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Fastify, PostgreSQL, MongoDB and Docker. My goal is to build modern, efficient, and user-centered web solutions that combine solid technical foundation with thoughtful design to create real impact.
+I’m a Full Stack Software Engineer with a Bachelor of Science in Computer Engineering. My professional experience goes through technologies like JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Fastify, NestJS, MySQL, PostgreSQL, MongoDB and Docker. My goal is to build modern, efficient, and user-centered web solutions that combine solid technical foundation with thoughtful design to create real impact.
 
 ### Languages and Tools
 
