@@ -1,11 +1,10 @@
 # Hello World!
 
-I'm Caio Vinicius, a Full Stack Software Engineer with a B.S. in Computer Engineering, hands-on experience across the full development cycle, from UI/UX design and responsive front-end implementation to REST API development, database modeling, performance optimization, SEO, and production-grade LLM integration.
+I'm Caio Vinicius, a Full Stack Software Engineer with a B.S. in Computer Engineering, focused on web development and hands-on experience across the full development lifecycle, from UI/UX design and responsive front-end implementation to RESTful API development, database modeling, performance optimization, scalability, LLM API integration, and DevOps practices including containerization, CI/CD pipelines, and VM/VPS provisioning and configuration.
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript & TypeScript
-- **Libraries & Frameworks:** React, Next.js, Node.js, Express.js & NestJS
-- **Databases:** PostgreSQL, MySQL & MongoDB
-- **Tools:** Docker, Meta Pixel, Google Tag Manager, Figma, Git, Github & CI/CD
-- **Soft Skills:** Problem Solving, Self-learning, Teamwork, Presentation & Adaptability
+- **Languages:** TypeScript, JavaScript, HTML & CSS
+- **Libraries & Frameworks:** React, Next.js, Node.js, Express & NestJS
+- **Databases:** MySQL, PostgreSQL & MongoDB
+- **Tools:** Docker, Docker Compose, Meta Pixel, Google Tag Manager, Figma, Git, Github, DevOps & CI/CD 
