@@ -5,6 +5,6 @@ I'm Caio Vinicius, a Full Stack Software Engineer with a B.S. in Computer Engine
 ## Skills
 
 - **Languages:** TypeScript, JavaScript, HTML & CSS
-- **Libraries & Frameworks:** React, Next.js, Node.js, Express & NestJS
+- **Libraries & Frameworks:** React, Next.js, Node.js, Express, NestJS, Jest & Cypress
 - **Databases:** MySQL, PostgreSQL & MongoDB
-- **Tools:** Docker, Docker Compose, Meta Pixel, Google Tag Manager, Figma, Git, Github, DevOps & CI/CD 
+- **Tools:** Docker, Docker Compose, Meta Pixel, Google Tag Manager, NGINX, Figma, Git, Github
