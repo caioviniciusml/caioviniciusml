@@ -4,11 +4,10 @@ I'm a Full Stack Software Engineer with 3+ years of experience and a B.S. in Com
 
 ## Skills
 
-- **Programming Languages:** TypeScript, JavaScript, SQL 
-- **Front End:** React, Next.js, HTML, CSS 
-- **Back End:** Node.js, NestJS, Fastify, Express, Prisma ORM, Drizzle, Moongose, JWT, OAuth
+- **Programming Languages:** TypeScript, JavaScript 
+- **Front End:** React, Next.js, TanStack, Zod, Radix UI, Base UI, Shadcn/ui, Motion
+- **Back End:** Node.js, NestJS, Fastify, Express, Prisma, Drizzle, Mongoose, JWT, OAuth
 - **Databases:** PostgreSQL, MongoDB
 - **Testing:** Jest, Vitest, Cypress, React Testing Library
-- **Cloud & Infrastructure:** Docker, Docker Compose, AWS (EC2, S3, RDS), GitHub Actions (CI/CD Pipelines)
-- **Tools:** Git, GitHub, Figma
-- **Languages:** English (C2), Portuguese (Native)
+- **Cloud & Infrastructure:** Docker, AWS (EC2, S3, RDS), Vercel
+- **Tools:** Git, GitHub, Claude, Figma
